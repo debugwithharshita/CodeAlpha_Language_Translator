@@ -2,7 +2,7 @@
 A simple Python language translation tool using the deep-translator library. It translates text between multiple languages quickly and accurately.
 # 🌍 Language Translator Tool
 
-A simple Python-based Language Translator that translates text from one language to another using the Google Translate library.
+A simple Python-based Language Translator that translates text from one language to another using the deep-Translator library.
 
 ## ✨ Features
 - Translate text into multiple languages
@@ -12,7 +12,7 @@ A simple Python-based Language Translator that translates text from one language
 
 ## 🛠️ Technologies Used
 - Python
-- googletrans
+- deep-translator
 
 ## 📦 Installation
 
