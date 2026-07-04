@@ -27,7 +27,9 @@ python lang_translator.py
 
 ## 📸 Output
 
-(Add your project screenshot here)
+![project output]
+screenshot_20260704-230239.jpg
+
 
 ## 📁 Project Structure
 
